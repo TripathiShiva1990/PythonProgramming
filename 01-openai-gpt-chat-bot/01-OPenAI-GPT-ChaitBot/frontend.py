@@ -1,7 +1,7 @@
 import streamlit as st
 from backend import ask_gpt
 
-st.title("GPT App-By Shiva Tripathi")
+st.title("ChaitBot with SKT")
 
 question = st.text_input("Enter your question:")
 
